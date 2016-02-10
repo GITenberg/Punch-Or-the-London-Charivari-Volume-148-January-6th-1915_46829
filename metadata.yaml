@@ -1,0 +1,33 @@
+_repo: Punch-Or-the-London-Charivari-Volume-148-January-6th-1915_46829
+contributor:
+  creator:
+    editor:
+      agent_name: Seaman, Owen
+      aliases:
+      - Seamen, Owen
+      - Seaman, Sir Owen
+      birthdate: 1861
+      deathdate: 1936
+      gutenberg_agent_id: '6487'
+      url: http://www.gutenberg.org/2009/agents/6487
+      wikipedia: http://en.wikipedia.org/wiki/Owen_Seaman
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'English wit and humor -- Periodicals'
+title: Punch, Or the London Charivari, Volume 148, January 6th, 1915
+url: http://www.gutenberg.org/ebooks/46829
